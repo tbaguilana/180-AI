@@ -17,5 +17,5 @@ by the goal state. The blank tile shall be denoted by 0.
 6 7 8
 The size of the puzzle may vary from 3x3 to 7x7.
 For simplicity, assume that the goal state is always reachable from the start state by some sequence of actions.
-Program Output
+
 Output through the terminal the optimal sequence of actions (up,down,left,right) to reach the goal state.
