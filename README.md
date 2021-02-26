@@ -28,3 +28,7 @@ implement a facial recognition system using artificial neural networks and suppo
   DATASET: The dataset (http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) is composed of PGM
 files of 40 subjects. Use 60% of the images from each subject for training and the remaining for testing.
 You may use the pixel intensities as features.
+
+Final Project: Dominant Colors Extraction <br/>
+Used the k-means algorithm to extract the dominant colors from paintings <br/>
+Programmers: Aguilana, Trina & Hernandez, Kat
